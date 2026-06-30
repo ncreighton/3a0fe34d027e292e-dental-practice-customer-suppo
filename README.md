@@ -1,0 +1,2 @@
+# 3a0fe34d027e292e-dental-practice-customer-suppo
+What if stay in flow state and ship faster took minutes instead of hours?  Integrates seamlessly into your VS Code workflow — keyboard shortcuts included. Status bar integration gives you real-time feedback without opening panels.  ## What's Included  - Dental Practice Customer Support Ticketing — fully configured and ready to use - Integrated dire
